@@ -9,4 +9,12 @@
 
 ![Adder](https://raw.githubusercontent.com/divyaprakashrx/32-Bit-ALU-Logisim/main/Screenshots/Adder.png)
 
+![Subtractor](https://raw.githubusercontent.com/divyaprakashrx/32-Bit-ALU-Logisim/main/Screenshots/Subtractor.png)
+
+![Multiplier](https://raw.githubusercontent.com/divyaprakashrx/32-Bit-ALU-Logisim/main/Screenshots/Multiplier.png)
+
+![OR](https://raw.githubusercontent.com/divyaprakashrx/32-Bit-ALU-Logisim/main/Screenshots/OR.png)
+
+![NOT](https://raw.githubusercontent.com/divyaprakashrx/32-Bit-ALU-Logisim/main/Screenshots/NOT.png)
+
 > # Made with ❤ by Divya Prakash
